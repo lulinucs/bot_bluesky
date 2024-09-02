@@ -37,8 +37,8 @@ Este projeto é uma aplicação Python para interação automática com a rede s
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/bluesky-auto-responder.git
-   cd bluesky-auto-responder
+   git clone https://github.com/lulinucs/bot_bluesky
+   cd bot_bluesky
 
 2.  **Configure as variáveis de ambiente**: Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
     
