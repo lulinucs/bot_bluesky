@@ -1,0 +1,44 @@
+# Ambiente Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Arquivos de configuração do ambiente
+.env
+*.env
+
+# Diretórios do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Virtual Environment
+venv/
+.env/
+env/
+ENV/
+venv.bak/
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de pacotes Python
+*.pyo
+*.pyd
+*.whl
+
+# Arquivos de backup
+*~
+*.bak
+
+# Arquivos de lock (não necessariamente devem ser ignorados, mas depende do seu fluxo de trabalho)
+Pipfile.lock
+poetry.lock
+
+legacy/
